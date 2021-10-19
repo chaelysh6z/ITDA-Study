@@ -1,5 +1,3 @@
-<img src="https://images.unsplash.com/photo-1515524738708-327f6b0037a7?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800"></img>
-
 # 동아리 잇다(IT多) 스터디
 
 > 코딩테스트 준비 – Python 100제(https://www.notion.so/pythonworkbook/Python-100-6ee1860ce29a41bc8eb6b9cfa7d7f06c)  
