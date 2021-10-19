@@ -1,5 +1,3 @@
-<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f3c3.svg"></img>
-
 # 동아리 잇다(IT多) 스터디
 
 > 코딩테스트 준비 – Python 100제(https://www.notion.so/pythonworkbook/Python-100-6ee1860ce29a41bc8eb6b9cfa7d7f06c)  
