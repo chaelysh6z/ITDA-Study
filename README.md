@@ -17,10 +17,10 @@
 - 스터디 참석 못 하는 경우 적어도 스터디 전날까지 카톡 방에 얘기
 - 과제 및 자료는 전날까지 업로드
 
-# Python 100제
+## Python 100제
 
 > https://www.notion.so/pythonworkbook/Python-100-6ee1860ce29a41bc8eb6b9cfa7d7f06c 
 
-# 백준 알고리즘
+## 백준 알고리즘
 
 > https://www.acmicpc.net/
